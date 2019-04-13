@@ -1,0 +1,10 @@
+do:lam
+and:va,voi
+cat:con meo
+who:ai
+how:nhu the nao
+gold:vang
+go:di
+dog:con cho,con cun
+where:o dau
+people:con nguoi
